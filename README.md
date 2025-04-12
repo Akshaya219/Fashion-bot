@@ -15,7 +15,7 @@ EcoStyle is an AI-powered wardrobe management app that helps users organize clot
 
 ## Usage
 Run with: `streamlit run app.py`
-
+                                                          
 ## Troubleshooting
 - **Value Errors**: Fixed extraction of numeric values from sustainability scores
 - **Image Analysis**: Ensure photos clearly show clothing items
