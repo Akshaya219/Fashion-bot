@@ -26,3 +26,4 @@ Run with: `streamlit run app.py`
 - Google Generative AI
 - PIL/Pillow
 - Pandas
+- 
